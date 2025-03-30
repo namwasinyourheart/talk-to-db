@@ -1,0 +1,11 @@
+id,name,price,promotion_id,category_id
+1,Basic Laptop,799.99,1,1
+2,High-end Laptop,1999.99,2,1
+3,Standard Tablet,499.99,1,2
+4,Pro Tablet,999.99,3,2
+5,Smartphone Model A,699.99,2,3
+6,Smartphone Model B,899.99,3,3
+7,Ultra Laptop,2499.99,4,1
+8,Mini Tablet,299.99,4,2
+9,Smartphone Model C,799.99,5,3
+10,Smartphone Model D,999.99,6,3

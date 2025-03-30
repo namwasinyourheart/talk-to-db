@@ -1,0 +1,5 @@
+id,product_id,screen_size,battery,support_sim
+1,3,10.1,6000,0
+2,4,12.9,8000,1
+3,8,8.0,4200,1
+4,4,13.3,10000,0

@@ -1,0 +1,6 @@
+id,product_id,ram,storage,processor
+1,1,8,256,Intel i5
+2,2,16,512,Intel i7
+3,7,32,1024,Intel i9
+4,1,4,128,Intel i3
+5,7,64,2048,AMD Ryzen 9
